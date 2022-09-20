@@ -9,4 +9,4 @@ The MIT License
 
 If you spot a bug, please...
 
-staging
+working tree
